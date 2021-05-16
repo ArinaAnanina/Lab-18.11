@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Арина\source\repos\Лаба 18.11(4)\List.h(124,10): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лаба 18.11(4)\List.h(109): message : во время компиляции функции-члена класс шаблон "void List<Pair>::AddInList(T,int)"
+          with
+          [
+              T=Pair
+          ]
+C:\Users\Арина\source\repos\Лаба 18.11(4)\Source.cpp(25): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::AddInList(T,int)"
+          with
+          [
+              T=Pair
+          ]
+C:\Users\Арина\source\repos\Лаба 18.11(4)\Source.cpp(17): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+  Лаба 18.11(4).vcxproj -> C:\Users\Арина\source\repos\Лаба 18.11(4)\Debug\Лаба 18.11(4).exe
